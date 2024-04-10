@@ -1,4 +1,4 @@
-.model smal l
+.model small
 printf macro str
         mov ah,09h
         mov dx,offset str
