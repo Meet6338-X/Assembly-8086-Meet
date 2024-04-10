@@ -6,7 +6,7 @@
 .code
     mov dx,@data
     mov ds,dx
-    mov cx,8
+    mov cx,16
     mov ax,num
 up: ror ax,01
     jnc dn
