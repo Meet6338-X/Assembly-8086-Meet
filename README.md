@@ -1,4 +1,4 @@
-<h1 align="center">The Is an Assembly Language Programming Repo of 8086 😊</h1><br><br>
+<h1 align="center">This Is an Assembly Language Programming Repo of 8086 😊</h1><hr><br><br>
 <h1 align="center">Hi 👋, I'm Meet Shah ×͜ × 😙🤞😏😏😏</h1>
 <h3 align="center">I am Programmer who loves coding and have Fun.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meet6338-x&label=Profile%20views&color=0e75b6&style=flat" alt="meet6338-x" /> </p>
